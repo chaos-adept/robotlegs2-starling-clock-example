@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    flexSDK group: 'org.apache', name: 'apache-flex-sdk', version: '4.9.1', ext: 'zip'
+    flexSDK group: 'org.apache', name: 'apache-flex-sdk', version: '4.12.0', ext: 'zip'
     //external files('libs/')
     internal files('libs/starling-1.4.1.swc')
     internal files('libs/Swiftsuspenders-v2.0.0.swc')
